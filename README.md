@@ -1,1 +1,1 @@
-- 👋 Hello Word! Me chamo Silas, um Analista de Infraestrutura em busca de conhecimentos para futuramente me tornar um Desenvolvedor Python!
+- 👋 Hello World! Me chamo Silas, um Analista de Infraestrutura em busca de conhecimentos para futuramente me tornar um Desenvolvedor Python!
