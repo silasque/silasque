@@ -1,2 +1,2 @@
-- 👋
-- Um Curioso Autodidata, gosto de tecnologia e seu vários ramos de especialização. Atualmente estou com foco em Programação em Python.
+- Um Analista de Sistemas em formação 2/5  👋
+- Programação em Python e suas bibliotecas.
