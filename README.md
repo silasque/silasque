@@ -1,2 +1,2 @@
-- Um Analista de Sistemas em formação 3/5  👋
-- Programação em Python e suas bibliotecas.
+- Analista de Infraestrautura Pleno e Analista de Sistemas em Formação  👋
+- Programação, Infraestrutura e Governança de TI.
